@@ -97,6 +97,6 @@ Interface d'accès principale : `http://localhost:8000/api`
 
 ## Vidéo
 
-**[VIDÉO](https://youtu.be/1nmoR-PrMHQ?si=3Kz0gZZr0YfC42oB)**
+**[VIDÉO](https://www.youtube.com/watch?v=FYrYaBeg-ZA)**
 
 
